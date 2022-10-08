@@ -9,7 +9,7 @@ Tableau
 
 
 ### Link to Tableau Story:
-[CitiBike: Manhattan, NY](public.tableau.com/app/profile/tracari.laster/viz/Module14_16625598080020/CitiBikeManhattanNY?publish=yes)
+[CitiBike: Manhattan, NY](https://public.tableau.com/app/profile/tracari.laster/viz/Module14_16625598080020/CitiBikeManhattanNY)
 
 
 
