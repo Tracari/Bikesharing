@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Overview
-Bikesharing has become an exciting, magical, memory-creating, community-building activity that would be a lucrative addition to the city of Des Moines Iowa-Both, financially, economically, and virtuously. Kate has an investor who’s all ears in exploring how bikesharing works, and is interested in a business proposal. In building on our data analytics experience, this exercise is an introduction to high-level data visualizations with Tableau software. Data will be imported, related, and styled into visual analyses. The illustrations will then, further be used to present the prospectuses in 3 separated means of presentation: Worksheets, Dashboards, and Stories. 
+Bikesharing would be a lucrative addition to the city of Des Moines, Iowa-Both, financially, economically, and virtuously. An investor, exploring how bikesharing works, is interested in a business proposal. Utilizing high-level data visualizations with Tableau software, bikesharing Data will be imported, related, and styled into visual analyses. These illustrations will be used to present prospectuses in 3 separated means of presentation: Worksheets, Dashboards, and Stories. 
 
 
 ### Data Environment:
